@@ -5,6 +5,11 @@ const rebuses = [
     hint: 'You´re solving one right now'
   },
   {
+    symbols: ['🦇', '+', '🌲', '+', '🚗'],
+    words: ['Battery', 'car'],
+    hint: 'An automobile which is propelled by electric motors'
+  },
+  {
     symbols: ['🏠', '+', 'pl', '+', '🐜', '+', 's'],
     words: ['Houseplants'],
     hint: `The second emoji is 'ant' not 'bug'`
